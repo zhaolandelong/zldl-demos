@@ -1,0 +1,13 @@
+{
+  "name": "zldl-demos",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "version": "1.0.0",
+  "description": "For demos",
+  "main": "index.js",
+  "repository": "https://github.com/zhaolandelong/zldl-demos.git",
+  "author": "zhaolandelong <zhaolandelong@163.com>",
+  "license": "MIT"
+}
